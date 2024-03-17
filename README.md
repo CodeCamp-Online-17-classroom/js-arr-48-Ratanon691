@@ -1,11 +1,7 @@
-# js-lab-133
-### Lab133 Array: ฟังก์ชัน copySorted(arr)
-จงเขียนฟังก์ชัน copySorted(arr) เพื่อ return array ที่เรียงข้อมูลใน arr จากน้อยไปหามาก โดยที่ arr ต้องมีค่าเหมือนเดิม
+# js-lab-134
+### Lab134 Array: ผลคูณของ element
+จงหาผลคูณของ element ใน nums
 
 ```JavaScript
-let arr = ['React', 'Vue', 'Angular'];
-let sorted = copySorted(arr);
-
-console.log(sorted); // Angular, React, Vue
-console.log(arr); // React, Vue, Angular (no changes)
+const nums = [-3, 2, 11, -7, 4, 6];
 ```
